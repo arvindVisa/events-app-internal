@@ -15,3 +15,7 @@ git init
 cd..internal
 cd../internal
 git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/arvindVisa/events-app-internal.git
+git push -u origin master
+git init
